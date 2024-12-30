@@ -1,0 +1,2 @@
+# simple_arm_moveit_demo
+6自由度持つロボットアームのurdfを使ってmoveit2のデモを行うパッケージ

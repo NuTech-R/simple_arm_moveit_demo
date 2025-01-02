@@ -1,6 +1,8 @@
 # simple_arm_moveit_demo
 6自由度持つロボットアームのurdfを使ってmoveit2のデモを行うパッケージ
-この記事はzennの[Moveit2を使ってロボットアームを制御するまで (3)](https://zenn.dev/robohase01/articles/ae66de3b4b6c19)に対応しています。
+この記事はzennの[Moveit2を使ってロボットアームを制御するまで (3)](https://zenn.dev/robohase01/articles/ae66de3b4b6c19)に対応しています。<br>
+![moveit2](images/moveit2.png)
+
 # 環境
 - OS: Ubuntu 22.04
 - ROS: ROS 2 Humble Hawksbill

@@ -1,6 +1,6 @@
 # simple_arm_moveit_demo
 6自由度持つロボットアームのurdfを使ってmoveit2のデモを行うパッケージ
-この記事はzennの[Moveit2を使ってロボットアームを制御するまで (3)](https://zenn.dev/robohase01/articles/ae66de3b4b6c19)に対応しています。<br>
+この記事はzennの[Moveit2を使ってロボットアームを制御するまで (3)](https://zenn.dev/nutechr/articles/ae66de3b4b6c19)に対応しています。<br>
 ![moveit2](images/moveit2.png)
 
 # 環境
@@ -12,7 +12,7 @@ source /opt/ros/humble/setup.bash
 rosdep update
 cd ~/
 
-git clone https://github.com/Nexis-R/simple_arm_moveit_demo
+git clone https://github.com/NuTech-R/simple_arm_moveit_demo
 cd ~/simple_arm_moveit_demo
 rosdep install -r -y -i --from-paths .
 ```
